@@ -1,0 +1,107 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Object" preserve="nothing"/>
+		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
+		<type fullname="UnityEditor.TagManager" preserve="nothing"/>
+		<type fullname="UnityEngine.Rendering.GraphicsSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Material" preserve="nothing"/>
+		<type fullname="UnityEditor.TimeManager" preserve="nothing"/>
+		<type fullname="UnityEditor.InputManager" preserve="nothing"/>
+		<type fullname="UnityEditor.PhysicsManager" preserve="nothing"/>
+		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoManager" preserve="nothing"/>
+		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
+		<type fullname="UnityEngine.Shader" preserve="nothing"/>
+		<type fullname="UnityEditor.Physics2DSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.PlayerSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.UnityConnectSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.QualitySettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Camera" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioSource" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
+		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
+		<type fullname="UnityEngine.AnimationClip" preserve="nothing"/>
+		<type fullname="UnityEngine.Animator" preserve="nothing"/>
+		<type fullname="UnityEditor.Animations.AnimatorController" preserve="nothing"/>
+		<type fullname="UnityEngine.RuntimeAnimatorController" preserve="nothing"/>
+		<type fullname="UnityEngine.Font" preserve="nothing"/>
+		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.Component" preserve="nothing"/>
+		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
+		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
+		<type fullname="UnityEngine.Motion" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Renderer" preserve="nothing"/>
+		<type fullname="UnityEngine.SpriteRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Rigidbody2D" preserve="nothing"/>
+		<type fullname="UnityEngine.CircleCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.BoxCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Collider2D" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Attack" preserve="nothing"/>
+		<type fullname="EnemyMove" preserve="nothing"/>
+		<type fullname="Enemy_move" preserve="nothing"/>
+		<type fullname="GameDirector" preserve="nothing"/>
+		<type fullname="GameOver" preserve="nothing"/>
+		<type fullname="HomeManager" preserve="nothing"/>
+		<type fullname="IntroManager" preserve="nothing"/>
+		<type fullname="LEFT" preserve="nothing"/>
+		<type fullname="Movement2D" preserve="nothing"/>
+		<type fullname="PangAction" preserve="nothing"/>
+		<type fullname="SoundManager" preserve="nothing"/>
+		<type fullname="StageDirector" preserve="nothing"/>
+		<type fullname="coin" preserve="nothing"/>
+		<type fullname="coinpoint" preserve="nothing"/>
+		<type fullname="createAcc" preserve="nothing"/>
+		<type fullname="life" preserve="nothing"/>
+		<type fullname="loadingScene" preserve="nothing"/>
+		<type fullname="loginButton" preserve="nothing"/>
+		<type fullname="mainCam" preserve="nothing"/>
+		<type fullname="mainbullet" preserve="nothing"/>
+		<type fullname="maincharac" preserve="nothing"/>
+		<type fullname="monsterDirector" preserve="nothing"/>
+		<type fullname="pumpkinbullet" preserve="nothing"/>
+		<type fullname="score" preserve="nothing"/>
+		<type fullname="shopManager" preserve="nothing"/>
+		<type fullname="showRanking" preserve="nothing"/>
+		<type fullname="showtime" preserve="nothing"/>
+		<type fullname="soreRanking" preserve="nothing"/>
+		<type fullname="soundcontrol" preserve="nothing"/>
+		<type fullname="villainbullet" preserve="nothing"/>
+		<type fullname="villaintest" preserve="nothing"/>
+		<type fullname="villaintest1" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.2D.Animation.Runtime">
+		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.Animation.SpriteLibrary" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.Animation.SpriteLibraryAsset" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.Animation.SpriteResolver" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.Animation.SpriteSkin" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.2D.IK.Runtime">
+		<type fullname="UnityEditor.U2D.IK.IKEditorManagerHelper" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.IK.IKManager2D" preserve="nothing"/>
+		<type fullname="UnityEngine.U2D.IK.LimbSolver2D" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.InputField" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
+	</assembly>
+</linker>
